@@ -29,6 +29,3 @@ This lab explores unsupervised learning techniques—clustering and dimensionali
 - Developed practical skills in dimensionality reduction (PCA, LDA) and clustering (K-means) for image data.
 - Learned to visualize and interpret high-dimensional data and clustering results.
 - Gained experience in evaluating unsupervised models using quantitative and qualitative metrics.
-
-## Why This Matters
-Clustering and dimensionality reduction are essential for understanding and organizing complex datasets like images. This lab demonstrates my ability to apply, evaluate, and improve unsupervised learning techniques in real-world scenarios.

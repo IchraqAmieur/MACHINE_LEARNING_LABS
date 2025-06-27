@@ -21,10 +21,3 @@ This lab focuses on supervised classification using the Heart Disease Detection 
 - Recommended the most suitable evaluation metric for this classification task.
 - Demonstrated prediction on new samples and interpreted model results.
 
-## Key Takeaways
-- Mastered the end-to-end classification workflow: preprocessing, modeling, evaluation, and interpretation.
-- Gained experience with scikit-learn, pandas, and custom SVM implementation.
-- Developed skills in model comparison and metric selection for real-world problems.
-
-## Why This Matters
-Classification is a core task in machine learning, especially in healthcare. This lab demonstrates my ability to build, evaluate, and interpret classification models, preparing me for advanced ML and AI applications.
